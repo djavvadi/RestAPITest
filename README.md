@@ -4,4 +4,3 @@
   1. Pull the project from git
   2. First build the project "mvn install"
   3. Once the project is built, just run "mvn test"
-  4. please contact any queries djavvadi@hotmail.com
